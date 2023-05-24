@@ -1,0 +1,482 @@
+{
+    "metadata": {
+        "version": "2"
+    },
+    "content": [
+      {
+          "elementType": "container",
+          "wrapperStyle": "focal",
+          "borderStyle": "none",
+          "borderRadius": "xloose",
+          "padding": "loose",
+          "content": [
+              {
+                  "elementType": "cardSet",
+                  "size": "xsmall",
+                  "borderless": true,
+                  "borderRadius": "none",
+                  "imageStyle": "hero",
+                  "imageHeight": "4.5rem",
+                  "imageBorderRadius": "tight",
+                  "textblockMargin": "xtight",
+                  "titleFontSize": "0.9375rem",
+                  "titleFontWeight": "normal",
+                  "titleTextColor": "theme:primary_text_color",
+                  "titleLineClamp": 2,
+                  "heading": {
+                      "heading": "My Current Courses",
+                      "headingLevel": 2,
+                      "marginTop": "none",
+                      "marginBottom": "xtight",
+                      "buttons": [
+                          {
+                              "elementType": "linkButton",
+                              "title": "View all",
+                              "icon": "drilldown",
+                              "iconPosition": "right",
+                              "link": {
+                                "module": {
+                                  "relativePath": " "
+                                }
+                              },
+                              "textColor": "theme:tertiary_text_color"
+                          }
+                      ]
+                  },
+                  "marginTop": "none",
+                  "marginBottom": "medium",
+                  "items": [
+                      {
+                          "elementType": "contentCard",
+                          "label": "HIST 203",
+                          "title": "The Concept of the Hero in Ancient Greek Civilization",
+                          "labelTextColor": "#1cb11a",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1571397275803-006230ba652f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZWt8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                        }
+                      },
+                      {
+                          "elementType": "contentCard",
+                          "label": "MATH 21A",
+                          "title": "Multivariable Calculus",
+                          "labelTextColor": "#e21648",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          },
+                          "badge": {
+                              "value": "✓ 3",
+                              "backgroundColor": "#e21648"
+                          }
+                      },
+                      {
+                          "elementType": "contentCard",
+                          "label": "PHOTO 101",
+                          "title": "Introduction to Photography",
+                          "labelTextColor": "#3b93c9",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbWVyYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          },
+                          "badge": {
+                              "value": "✓ 1",
+                              "backgroundColor": "#3b93c9"
+                          }
+                      },
+                      {
+                          "elementType": "contentCard",
+                          "label": "CS 212",
+                          "title": "Algorithms",
+                          "labelTextColor": "#df16ca",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1580584126903-c17d41830450?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNvbXB1dGVyJTIwc2NpZW5jZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "elementType": "contentCard",
+                          "label": "CS 225",
+                          "title": "Data Structures and Methods",
+                          "labelTextColor": "#f28700",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1626285094816-39f688104ce0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          },
+                          "badge": {
+                              "value": "✓ 2",
+                              "backgroundColor": "#f28700"
+                          }
+                      },
+                      {
+                          "elementType": "contentCard",
+                          "label": "ENGL 161",
+                          "title": "Shakespeare 1",
+                          "labelTextColor": "#00aab2",
+                          "image": {
+                              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Oberon%2C_Titania_and_Puck_with_Fairies_Dancing._William_Blake._c.1786.jpg"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "elementType": "contentCard",
+                          "label": "THE 2SP",
+                          "title": "Set Lighting Techniques",
+                          "labelTextColor": "#8e5821",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1622296418502-4fabe7908d76?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3RhZ2UlMjBsaWdodGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      }
+                  ]
+              },
+
+
+              {
+                  "elementType": "grid",
+                  "initiallyHidden": true,
+                  "gridStyle": "video",
+                  "gridDensity": "loose",
+                  "imageBorderRadius": "tight",
+                  "titleFontSize": "0.75rem",
+                  "titleFontWeight": "bold",
+                  "descriptionFontSize": "0.875rem",
+                  "descriptionTextColor": "theme:primary_text_color",
+                  "textblockLineClamp": 3,
+                  "heading": {
+                      "heading": "My Courses",
+                      "headingLevel": 2,
+                      "marginTop": "none",
+                      "marginBottom": "xtight",
+                      "buttons": [
+                          {
+                              "elementType": "linkButton",
+                              "title": "View all",
+                              "icon": "drilldown",
+                              "iconPosition": "right",
+                              "link": {
+                                "module": {
+                                  "relativePath": " "
+                                }
+                              },
+                              "textColor": "theme:tertiary_text_color"
+                          }
+                      ]
+                  },
+                  "items": [
+                      {
+                          "label": "HIST 203",
+                          "description": "The Concept of the Hero in Ancient Greek Civilization",
+                          "titleTextColor": "#0ca800",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1571397275803-006230ba652f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZWt8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "title": "MATH 21A",
+                          "description": "Multivariable Calculus",
+                          "titleTextColor": "#e21648",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "title": "PHOTO 101",
+                          "description": "Introduction to Photography",
+                          "titleTextColor": "#3b93c9",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhbWVyYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "title": "CS 212",
+                          "description": "Algorithms",
+                          "titleTextColor": "#df16ca",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1580584126903-c17d41830450?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNvbXB1dGVyJTIwc2NpZW5jZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "title": "CS 225",
+                          "description": "Data Structures",
+                          "titleTextColor": "#f89a09",
+                          "image": {
+                              "url": "https://images.unsplash.com/photo-1626285094816-39f688104ce0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      },
+                      {
+                          "title": "ENGL 161",
+                          "description": "Shakespeare's Sonnets",
+                          "titleTextColor": "#0ab2a4",
+                          "image": {
+                              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Oberon%2C_Titania_and_Puck_with_Fairies_Dancing._William_Blake._c.1786.jpg"
+                          },
+                          "link": {
+                            "module": {
+                              "relativePath": " "
+                            }
+                          }
+                      }
+                  ]
+              },
+
+              {
+                  "elementType": "divider",
+                  "borderStyle": "none",
+                  "marginBottom": "responsive"
+              },
+                  {
+                      "elementType": "sideBySide",
+                      "left": {
+                          "preferredWidth": "50%",
+                          "minWidth": "280px",
+                          "paddingRight": "0.5rem",
+                          "content": [
+                              {
+                                  "elementType": "portlet",
+                                  "forceAjaxOnLoad": false,
+                                  "horizontalAlignment": "left",
+                                  "borderRadius": "medium",
+                                  "aspectRatio": "3:4",
+                                  "verticalScrolling": true,
+                                  "padding": "medium",
+                                  "marginTop": "medium",
+                                  "marginBottom": "none",
+                                  "heading": {
+                                      "heading": "Announcements",
+                                      "headingLevel": 3,
+                                      "headingFontWeight": "medium",
+                                      "image": {
+                                          "url": "https://static.modolabs.com/xmodule/iconsets/stroke-fullcolor/60/audio.png",
+                                          "alt": "Announcements"
+                                      },
+                                      "imageWidth": "1.65rem",
+                                      "imageHeight": "1.65rem",
+                                      "marginBottom": "none",
+                                      "buttons": [
+                                          {
+                                              "elementType": "linkButton",
+                                              "title": "View all",
+                                              "icon": "drilldown",
+                                              "iconPosition": "right",
+                                              "link": {
+                                                "module": {
+                                                  "relativePath": " "
+                                                }
+                                              },
+                                              "textColor": "theme:tertiary_text_color"
+                                          }
+                                      ]
+                                  },
+                                  "content": [
+                                      {
+                                          "elementType": "list",
+                                          "listStyle": "unpadded",
+                                          "borderColor": "transparent",
+                                          "showAccessoryIcons": false,
+                                          "titleFontWeight": "normal",
+                                          "titleLineClamp": 3,
+                                          "marginTop": "none",
+                                          "marginBottom": "none",
+                                          "items": [
+                                              {
+                                                  "label": "PHOTO 101",
+                                                  "labelTextColor": "#3b93c9",
+                                                  "title": "Class will be inside again this Tuesday",
+                                                  "description": "Richard Winters | 3h ago",
+                                                  "link": {
+                                                    "module": {
+                                                      "relativePath": " "
+                                                    }
+                                                  }
+                                              },
+                                              {
+                                                  "label": "CS 212",
+                                                  "labelTextColor": "#df16ca",
+                                                  "title": "Problem set #7 has been updated to clarify the source data. Be sure to double-check your work!",
+                                                  "description": "Rita Szabo | 5h ago",
+                                                  "link": {
+                                                    "module": {
+                                                      "relativePath": " "
+                                                    }
+                                                  }
+                                              },
+                                              {
+                                                  "label": "MATH 21A",
+                                                  "labelTextColor": "#e21648",
+                                                  "title": "Professor Jeung's Tuesday office hours have been changed to 3-6PM for this week only. See you there!",
+                                                  "description": "Jonathan Blankenfeld | 1d ago",
+                                                  "link": {
+                                                    "module": {
+                                                      "relativePath": " "
+                                                    }
+                                                  }
+                                              }
+                                          ]
+                                      }
+                                  ]
+                              }
+                          ]
+                      },
+                      "right": {
+                          "preferredWidth": "50%",
+                          "horizontalAlignment": "left",
+                          "minWidth": "280px",
+                          "paddingLeft": "0.5rem",
+                          "content": [
+                              {
+                                  "elementType": "portlet",
+                                  "forceAjaxOnLoad": false,
+                                  "horizontalAlignment": "left",
+                                  "borderRadius": "medium",
+                                  "aspectRatio": "3:4",
+                                  "verticalScrolling": true,
+                                  "padding": "medium",
+                                  "marginTop": "medium",
+                                  "marginBottom": "none",
+                                  "heading": {
+                                      "heading": "To-Do List",
+                                      "headingLevel": 3,
+                                      "headingFontWeight": "medium",
+                                      "image": {
+                                          "url": "https://static.modolabs.com/xmodule/iconsets/stroke-fullcolor/60/feedback.png",
+                                          "alt": "To do list"
+                                      },
+                                      "imageWidth": "1.65rem",
+                                      "imageHeight": "1.65rem",
+                                      "marginBottom": "none",
+                                      "buttons": [
+                                          {
+                                              "elementType": "linkButton",
+                                              "title": "View all",
+                                              "icon": "drilldown",
+                                              "iconPosition": "right",
+                                              "link": {
+                                                "module": {
+                                                  "relativePath": " "
+                                                }
+                                              },
+                                              "textColor": "theme:tertiary_text_color"
+                                          }
+                                      ]
+                                  },
+                                  "content": [
+                                      {
+                                          "elementType": "list",
+                                          "listStyle": "unpadded",
+                                          "borderColor": "transparent",
+                                          "showAccessoryIcons": false,
+                                          "titleFontWeight": "normal",
+                                          "marginTop": "none",
+                                          "marginBottom": "none",
+                                          "imageStyle": "thumbnailSmall",
+                                          "imageWidth": "1.75rem",
+                                          "imageHeight": "1.75rem",
+                                          "imageHorizontalPosition": "left",
+                                          "items": [
+                                              {
+                                                  "image": {
+                                                      "url": "https://static.modolabs.com/james/icons/Courses%20-%20Canvas/canvas_quizzes.png"
+                                                  },
+                                                  "label": "CS 225",
+                                                  "labelTextColor": "#f28700",
+                                                  "title": "Quiz: Out of Sorts",
+                                                  "description": "Due today",
+                                                  "link": {
+                                                    "module": {
+                                                      "relativePath": " "
+                                                    }
+                                                  }
+                                              },
+                                              {
+                                                  "image": {
+                                                      "url": "https://static.modolabs.com/james/icons/Courses%20-%20Canvas/canvas_assignments.png"
+                                                  },
+                                                  "label": "MATH 21A",
+                                                  "labelTextColor": "#e21648",
+                                                  "title": "Assignment: Problem Set #7",
+                                                  "description": "Due tomorrow",
+                                                  "link": {
+                                                    "module": {
+                                                      "relativePath": " "
+                                                    }
+                                                  }
+                                              },
+                                              {
+                                                  "image": {
+                                                      "url": "https://static.modolabs.com/james/icons/Courses%20-%20Canvas/canvas_assignments.png"
+                                                  },
+                                                  "label": "PHOTO 101",
+                                                  "labelTextColor": "#3b93c9",
+                                                  "title": "Assignment: Sunset Landscapes",
+                                                  "description": "Due June 3, 2021",
+                                                  "link": {
+                                                    "module": {
+                                                      "relativePath": " "
+                                                    }
+                                                  }
+                                              }
+                                          ]
+                                      }
+                                  ]
+                              }
+                          ]
+                      }
+                  }
+          ]
+      }
+    ]
+}
